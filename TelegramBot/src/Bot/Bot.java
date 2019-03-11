@@ -21,7 +21,7 @@ public class Bot extends JFrame {
 		frame.setTitle("ChatBot");
 		frame.add(Chatarea);
 		frame.add(chatbox);
-		// FOR TEXTAREA
+		// FOR TEXTAREA 
 		Chatarea.setSize(500, 400);
 		Chatarea.setLocation(2, 2);
 
